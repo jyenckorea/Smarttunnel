@@ -1,5 +1,5 @@
 {
+  "latest_version": "0.13",
   "min_allow_version": "0.11",
-  "latest_version": "0.12",
-  "cafe_url": "https://www.smarttunnel.kr"
+  "update_url": "https://www.smarttunnel.kr"
 }
